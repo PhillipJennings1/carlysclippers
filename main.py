@@ -29,4 +29,4 @@ print(cuts_under_30)
 # this took like 25 minutes
 # 26 minutes now
 for i in range(50):
-    print("5")
+    print("12")
