@@ -27,4 +27,4 @@ cuts_under_30 = [hairstyles[i] for i in range(len(new_prices) - 1) if new_prices
 print(cuts_under_30)
 
 #this took like 25 minutes
-
+#26 minutes now
